@@ -1,6 +1,9 @@
 # TransientCluster
 Transient detection and pattern discovery in time series data
 
+Contents
+--------
+
 This folder contains the following subfolders:
 
 1. source
@@ -11,3 +14,23 @@ This folder contains the following subfolders:
 
 3. results
 	contains results.
+
+Contact
+-------
+
+* Lu Xing, the University of Texas at Austin, xinglu@utexas.edu
+* Lina Sela, the University of Texas at Austin, linasela@utexas.edu
+
+Disclaimer
+----------
+
+No warranty, expressed or implied, is made as to the correctness of the
+results or the suitability of the application.
+
+
+Cite
+----
+
+To cite, use one of the following references:
+
+Xing, Lu, and Lina Sela. "Unsteady pressure patterns discovery from high-frequency sensing in water distribution systems." Water research 158 (2019): 291-300.
